@@ -7,3 +7,6 @@ Key Features:
 3. Set up auto-refresh every 3 minutes for hands-free updates.
 4. Check the last refreshed time for added convenience.
 5. Experience a seamless retry button in case of data loading issues.
+
+
+Note: Here i have uploaded demo video too.
